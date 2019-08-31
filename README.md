@@ -1,2 +1,3 @@
 # Practise
-This is a practice document, i am learning to use git...
+This is a practice document.
+Added and removed Files.
